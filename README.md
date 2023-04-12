@@ -25,5 +25,13 @@ Other than this, a social handle of this website was made including Instagram an
 <br> 
 This project integrated telemedicine and online support groups that improved accessibility, leading to increasing in active users; connected over 100+ patients with certified users.
 
+## Wesbsite Snippets
 
+![Screenshot (2560)](https://user-images.githubusercontent.com/80692282/231566741-d042870f-7eeb-4107-8fcf-01ed3d47b6b8.png)
 
+![Screenshot (2561)](https://user-images.githubusercontent.com/80692282/231566795-aa2f5186-a3c4-4327-8124-a2aeaa5a600a.png)
+
+![Screenshot (2562)](https://user-images.githubusercontent.com/80692282/231566922-55ed3734-1b2f-4191-905c-47ec12dad93d.png)
+![Screenshot (2563)](https://user-images.githubusercontent.com/80692282/231566962-e644cee4-91db-43ed-ad9e-7bb4fd06d271.png)
+![Screenshot (2564)](https://user-images.githubusercontent.com/80692282/231566965-36c20846-dd06-42d3-be6c-249f1b2150f6.png)
+![Screenshot (2565)](https://user-images.githubusercontent.com/80692282/231566966-b759e189-f8f0-4997-98a4-f8002cb320a9.png)
