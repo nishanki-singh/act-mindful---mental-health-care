@@ -25,3 +25,11 @@ Other than this, a social handle of this website was made including Instagram an
 <br> 
 This project integrated telemedicine and online support groups that improved accessibility, leading to increasing in active users; connected over 100+ patients with certified users.
 
+![Screenshot2560](Screenshot2560.png)
+![Screenshot2560](Screenshot2561.png)
+![Screenshot2560](Screenshot2562.png)
+![Screenshot2560](Screenshot2563.png)
+![Screenshot2560](Screenshot2564.png)
+![Screenshot2560](Screenshot2565.png)
+
+
